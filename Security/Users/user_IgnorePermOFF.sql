@@ -1,0 +1,3 @@
+﻿CREATE USER [user_IgnorePermOFF]
+  WITHOUT LOGIN
+GO

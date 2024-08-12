@@ -1,0 +1,9 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+CREATE FUNCTION [dbo].[testF](@n1 int, @n2 as int)
+RETURNS int
+AS
+BEGIN
+Return (@n1*@n2)
+END
+GO
