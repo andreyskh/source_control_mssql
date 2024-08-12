@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<StaticDataList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2</Version>
+  <StaticDataLinks>
+    <StaticDataLink>HumanResources.Department</StaticDataLink>
+    <StaticDataLink>Production.Product</StaticDataLink>
+    <StaticDataLink>Production.ProductCategory</StaticDataLink>
+  </StaticDataLinks>
+</StaticDataList>
